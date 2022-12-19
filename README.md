@@ -1,6 +1,6 @@
 # How to make the marker visible for a particular point alone in the Cartesian chart 
 
-This repository contains sample to show marker visible for a particular point alone in the  [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
+This repository contains a sample to show marker visible for a particular point alone in the  [Syncfusion Flutter Chart](https://help.syncfusion.com/flutter/cartesian-charts/getting-started) widget.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13419/how-to-make-the-marker-visible-for-a-particular-point-alone-in-the-cartesian-chart).
 
