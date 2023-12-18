@@ -54,7 +54,7 @@ class MarkerAtSinglePointState extends State<MarkerAtSinglePoint> {
             args.markerWidth = 0.0;
           }
         },
-        series: <ChartSeries<ChartSampleData, double>>[
+        series: <LineSeries<ChartSampleData, double>>[
           LineSeries<ChartSampleData, double>(
             markerSettings: const MarkerSettings(isVisible: true),
             dataSource: chartData!,
